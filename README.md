@@ -1,5 +1,8 @@
-# autosize-label
+# Autosize label addon for Godot 4.X
 A godot addon that creates a new node AutosizeLabel that adjust its width and height automaticaly to fit its container
+
+![AutosizeLabel Image](/screenshots/AutosizeLabel.webp)
+![How it works animation](/screenshots/autosize-label.webp)
 
 ## Attribution
 * Licensed under [MIT](LICENSE)
